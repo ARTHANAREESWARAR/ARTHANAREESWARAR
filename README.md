@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Software Developement Learning Resources**
 
-- 👨‍💻 All of my projects are available at [https://arthanareeswarar.github.io/portfolio/](https://arthanareeswarar.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://arthanareeswarar.github.io/portfolio/](https://arthanareeswarar.github.io/arthanareeswarar-portfolio.in/)
 
 - 📫 How to reach me **rarthanareeswarar2@gmail.com**
 
