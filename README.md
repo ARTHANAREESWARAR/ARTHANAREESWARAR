@@ -39,3 +39,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthanareeswarar&show_icons=true&locale=en&layout=compact" alt="arthanareeswarar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthanareeswarar&show_icons=true&locale=en" alt="arthanareeswarar" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rarthanareeswarar2?theme=nord&font=JetBrains%20Mono)
+
+Leetcode Batches:
+
+    ![200](https://github.com/user-attachments/assets/6c391d85-1f73-4a99-b5d6-0358e0c52a21)
+
+    ![100](https://github.com/user-attachments/assets/78459164-43c1-4c20-b9d8-d674b8f30b69)
+
+    ![50](https://github.com/user-attachments/assets/d3101447-d57e-4a08-8461-0f89b7727ee7)
+    
+    ![7](https://github.com/user-attachments/assets/7629f27d-0179-4cbd-854e-2cd6a72fc722)
+
+
+
