@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthanareeswarar&show_icons=true&locale=en" alt="arthanareeswarar" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rarthanareeswarar2?theme=nord&font=JetBrains%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rho_Ruler?theme=nord&font=JetBrains%20Mono)
