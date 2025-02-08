@@ -44,7 +44,15 @@
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rho_Ruler&animated=true" alt="LeetCode Badges" />
 
+<img src="https://codechef-readme-stats.onrender.com/rho_ruler?v=1" alt="CodeChef Stats" />
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Rho_Ruler&theme=dark)](https://codeforces.com/profile/Rho_Ruler)
+
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/rarthanarewkfe)](https://www.geeksforgeeks.org/user/rarthanarewkfe/)
+
+[![Rho_Ruler's AtCoder stats](https://atcoder-readme-stats.vercel.app/stats/Rho_Ruler?show_history=5&width=450)](https://atcoder.jp/users/Rho_Ruler)
+
+
 
 
 
