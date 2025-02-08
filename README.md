@@ -41,3 +41,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthanareeswarar&show_icons=true&locale=en" alt="arthanareeswarar" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rho_Ruler?theme=nord&font=JetBrains%20Mono)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={https://leetcode.com/u/Rho_Ruler/}" alt="LeetCode Badges" />
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Rho_Ruler&theme=dark)](https://codeforces.com/profile/Rho_Ruler)
+
+
+
+
+
+
+
+
+
+
+
+
+
